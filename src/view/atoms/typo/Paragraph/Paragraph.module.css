@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  align-items: start;
+}
+
+.horizontal {
+  flex-direction: row;
+}
+
+.vertical {
+  flex-direction: column;
+}
