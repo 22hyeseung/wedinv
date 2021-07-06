@@ -1,0 +1,20 @@
+.paragraph {
+  padding-bottom: 10vh;
+}
+
+.title {
+  margin: 0;
+  width: 100%;
+  font-size: calc(20px + 2vmin);
+}
+
+.title > span:last-child {
+  font-weight: bold;
+}
+
+.location {
+  width: 100%;
+  font-size: calc(8px + 2vmin);
+  margin: 0;
+  padding: 0;
+}
